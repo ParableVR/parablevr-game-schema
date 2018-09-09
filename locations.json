@@ -1,0 +1,31 @@
+{
+  "_id": "objectID",
+  "name": "location name",
+  "max_players": 4,
+  "when_created": "6599088684752961537",
+  "when_deleted": null,
+  "scenarios": [
+    {
+      "_id": "objectID",
+      "name": "scenario name",
+      "description": "scenario description",
+      "goal": "scenario end goal, not displayed to players",
+      "when_created": "6599088684752961538",
+      "when_deleted": null,
+      "linked_prev_scenario": "objectID",
+      "linked_next_scenario": "objectID",
+      "objects": [
+        {
+          "object": "objectID",
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0,
+          "roll": 0,
+          "significant": true
+        }
+      ]
+    }
+  ]
+}

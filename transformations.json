@@ -1,0 +1,12 @@
+{
+  "_id": "objectID",
+  "name": "transformation friendly name for a menu (e.g. 'deconscruct to aluminum chips and plastic')",
+  "when_deleted": null,
+  "objects_input": [
+    "objectID (etch-a-sketch)"
+  ],
+  "objects_output": [
+    "objectID (alumninium chips)",
+    "objectID (plastic)"
+  ]
+}

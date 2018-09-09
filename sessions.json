@@ -1,0 +1,16 @@
+{
+  "_id": "objectID",
+  "name": "session friendly name",
+  "scenario": "objectID",
+  "when_created": "6599093228828360705",
+  "when_started": null,
+  "when_ended": null,
+  "people": [
+    {
+      "user": "objectID",
+      "spectator": false,
+      "when_joined": "6599093228828360705",
+      "when_left": null
+    }
+  ]
+}

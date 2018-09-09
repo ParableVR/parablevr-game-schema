@@ -1,0 +1,8 @@
+{
+  "_id": "objectID",
+  "name": "object friendly name",
+  "description": "object description",
+  "script": "unity script name",
+  "when_created": "6599093228828360705",
+  "when_deleted": null
+}

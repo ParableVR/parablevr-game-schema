@@ -1,0 +1,21 @@
+{
+  "_id": "objectID",
+  "session": "objectID",
+  "when_started": "6599088684752961537",
+  "when_ended": "6599088684752961538",
+  "when_deleted": null,
+  "timeline_file": "blob location to serialised timeline of objects (player and object movement - not events because they're stored here)",
+  "events": [
+    {
+      "_id": "objectID",
+      "type": "interaction|perception|reaction",
+      "user": "objectID",
+      "when_occured": "0",
+      "contact_duration": 5,
+      "perception__res_in_action": true,
+      "interaction__res_in_take": false,
+      "reaction__res_in_succeed": false,
+      "reaction": "objectID"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "objectID",
+  "name": "reaction name",
+  "description": "reaction description",
+  "script": "unity script",
+  "when_deleted": null,
+  "objects": [
+    {
+      "object": "objectID (thermite)",
+      "rules_environmental": {
+        "temperature": {
+          "eval_to": true,
+          "value_start": 300,
+          "value_end": 500
+        }
+      },
+      "rules_state": null
+    },
+    {
+      "object": "objectID (lighter)",
+      "rules_environmental": null,
+      "rules_state": {
+        "active": {
+          "eval_to": true,
+          "value": true
+        }
+      }
+    }
+  ]
+}
